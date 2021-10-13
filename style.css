@@ -34,6 +34,9 @@
   top: auto;
   height: 100%
 }
+.btn:focus {
+  outline: none;
+}
 .mini {
   text-decoration: none;
   color: white;
