@@ -13,7 +13,7 @@ div {
 
 .btn {
     display: inline-block; /* Строчно-блочный элемент */
-    background: black; /* Серый цвет фона */
+    background: ; /* Серый цвет фона */
     color: #fff; /* Белый цвет текста */
     padding: 1rem 1.5rem; /* Поля вокруг текста */
     text-decoration: none; /* Убираем подчёркивание */
