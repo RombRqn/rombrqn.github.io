@@ -13,13 +13,10 @@ div {
 
 .btn {
     display: inline-block; /* Строчно-блочный элемент */
-    background: ; /* Серый цвет фона */
+    background: black; /* Серый цвет фона */
     color: #fff; /* Белый цвет текста */
     padding: 1rem 1.5rem; /* Поля вокруг текста */
     text-decoration: none; /* Убираем подчёркивание */
     border-radius: 3px; /* Скругляем уголки */
     display: table;
-    height: 100%;
-
-    text-align: center;
-   }
+    height: 100%;   }
