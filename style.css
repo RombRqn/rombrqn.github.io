@@ -1,4 +1,7 @@
 .btn {
+align-items: column;
+}
+.btn {
   text-decoration: none;
   color: white;
   display: inline-block;
