@@ -1,5 +1,5 @@
-.btn {
-align-items: column;
+.btn{
+  align="center"
 }
 .btn {
   text-decoration: none;
@@ -10,7 +10,7 @@ align-items: column;
   border: 2px solid;
   border-image: linear-gradient(180deg, #ff3000, #ed0200, #ff096c, #d50082);
   border-image-slice: 1;
-  margin: 10px 20px;
+  margin: 10px 50%;
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   overflow: hidden;
