@@ -7,7 +7,7 @@
   display: inline-block;
   position: relative;
   padding: 15px 30px;
-  border: 2px solid;
+  border: 1px solid;
   border-image: linear-gradient(180deg, #ff3000, #ed0200, #ff096c, #d50082);
   border-image-slice: 1;
   margin: 10px 20px;
@@ -33,27 +33,6 @@
   background: rgba(255, 255, 255, 0);
 }
 .btn:hover:before {
-  bottom: 0%;
-  top: auto;
-}
-.btr {
-  text-decoration: none;
-  color: white;
-  display: inline-block;
-  letter-spacing: 2px;
-  transition: .8s cubic-bezier(.165, .84, .44, 1);
-}
-.btn:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  background: linear-gradient(180deg, #ff3000, #ed0200, #ff096c, #d50082);
-  transition: .8s cubic-bezier(.165, .84, .44, 1);
-}
-.btr:hover {
-  background: rgba(255, 255, 255, 0);
-}
-.btr:hover:before {
   bottom: 0%;
   top: auto;
   height: 100%;
